@@ -8,5 +8,6 @@
 <body>
     <h1>Hellow world</h1>
     <p>Paragraph</p>
+    <p>Paragraph 2</p>
 </body>
 </html>

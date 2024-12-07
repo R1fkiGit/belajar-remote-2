@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Hellow world</h1>
+    <h1>Hello world</h1>
     <p>Paragraph</p>
     <p>Paragraph 2</p>
 </body>

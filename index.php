@@ -6,6 +6,7 @@
     <title>Belajar Remote</title>
 </head>
 <body>
-    <h1>Paragraf</h1>
+    <h1>Hellow world</h1>
+    <p>Paragraph</p>
 </body>
 </html>
